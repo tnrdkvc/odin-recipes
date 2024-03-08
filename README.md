@@ -1,0 +1,1 @@
+The focus of my 'recipes' project is to learn how to independently construct a basic website using the most basic HTML code, and learn how to commit each individual step to Git. 
